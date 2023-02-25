@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/bin/Debug/net7.0/task28
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/bin/Debug/net7.0/task28.deps.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/bin/Debug/net7.0/task28.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/bin/Debug/net7.0/task28.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/bin/Debug/net7.0/task28.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/refint/task28.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/task28.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task28/obj/Debug/net7.0/ref/task28.dll

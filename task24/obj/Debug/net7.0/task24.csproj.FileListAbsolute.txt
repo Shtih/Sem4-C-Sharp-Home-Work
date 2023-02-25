@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/bin/Debug/net7.0/task24
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/bin/Debug/net7.0/task24.deps.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/bin/Debug/net7.0/task24.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/bin/Debug/net7.0/task24.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/bin/Debug/net7.0/task24.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/refint/task24.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/task24.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task24/obj/Debug/net7.0/ref/task24.dll

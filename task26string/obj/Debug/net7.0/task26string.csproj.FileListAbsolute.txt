@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/bin/Debug/net7.0/task26string
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/bin/Debug/net7.0/task26string.deps.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/bin/Debug/net7.0/task26string.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/bin/Debug/net7.0/task26string.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/bin/Debug/net7.0/task26string.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/refint/task26string.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/task26string.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task26string/obj/Debug/net7.0/ref/task26string.dll

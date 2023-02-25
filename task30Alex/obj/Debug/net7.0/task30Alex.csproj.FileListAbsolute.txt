@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/bin/Debug/net7.0/task30Alex
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/bin/Debug/net7.0/task30Alex.deps.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/bin/Debug/net7.0/task30Alex.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/bin/Debug/net7.0/task30Alex.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/bin/Debug/net7.0/task30Alex.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/refint/task30Alex.dll
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.pdb
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/task30Alex.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem4 C#/task30Alex/obj/Debug/net7.0/ref/task30Alex.dll
